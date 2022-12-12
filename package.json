@@ -1,0 +1,24 @@
+{
+  "name": "stuart-weitzman-scrapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "googleapis": "^105.0.0",
+    "jsonexport": "^3.2.0",
+    "objects-to-csv": "^1.3.6",
+    "pupeteer": "^0.0.1",
+    "puppeteer": "^19.2.0",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
